@@ -8,7 +8,7 @@ namespace LineComparisonProblem
     class Program
     {
         /// <summary>
-        /// Line length calculated.
+        /// Comparison of two lines.
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
@@ -16,7 +16,8 @@ namespace LineComparisonProblem
             //Console.WriteLine("Welcome to Line Comparison Computation Program");
 
             //Cartesiansystem.Calculatinglength();
-            Equalityof2lines.Comparison();
+            //Equalityof2lines.Comparison();
+            Comparetwolines.Comparelines();
         }
     }
 }
